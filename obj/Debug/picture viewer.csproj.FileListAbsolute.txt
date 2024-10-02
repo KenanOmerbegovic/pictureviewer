@@ -1,0 +1,10 @@
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\bin\Debug\picture viewer.exe.config
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\bin\Debug\picture viewer.exe
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\bin\Debug\picture viewer.pdb
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture viewer.csproj.AssemblyReference.cache
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture_viewer.Form1.resources
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture_viewer.Properties.Resources.resources
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture viewer.csproj.GenerateResource.cache
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture viewer.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture viewer.exe
+C:\Users\Kenan\source\repos\picture viewer\picture viewer\obj\Debug\picture viewer.pdb
